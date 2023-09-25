@@ -1,0 +1,4 @@
+#Mon Sep 25 00:48:56 WIB 2023
+base.0=D\:\\KULIAH SMS 3\\MOBILE 2 PAK ANG\\android-kotlin-fundamentals-starter-apps-master\\TrackMySleepQualityCoroutines-Starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
